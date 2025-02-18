@@ -22,7 +22,7 @@ Bienvenue sur mon GitHub ! Je suis un développeur web en **BUT MMI** (*Métiers
 **Description :** Afin de créer un moyen immersif et ludique d'apprendre l'anglais, nous avons avec mon équipe créé un jeu qui met en scène un jeu télévisé appelé "Let Him Quizz". En utilisant AFRAME et ThreeJS, mon rôle est de créer les différentes séquences de mini jeu qui composent l'émission. Ce projet m'apporte beacuoup en expérience et en organisation, il esty d'ailleurs toujours en cours.
 
 ![Langues principales](https://img.shields.io/github/languages/top/bastienggg/Let_him_quizz?color=blue&style=flat-square)
-![Béta hébergée](https://bastienggg.github.io/Let_him_quizz/)
+[Béta hébergée](https://bastienggg.github.io/Let_him_quizz/)
 
 ### [SAE 301 – Développement d'un site e-commerce](https://github.com/JulianDou/SAE3.01_DOUTRELIGNE_CAROALQUIER)
 **Description :** Dans ce projet, je devais avec mon binôme, redeisgner et développer un site de click & collect. J'ai donc analysé le site de Micromania et développé l'API et le Back Office de ce site.
