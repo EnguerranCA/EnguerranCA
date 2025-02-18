@@ -16,7 +16,7 @@ Bienvenue sur mon GitHub ! Je suis un développeur web en **BUT MMI** (*Métiers
 ### [SAE 301 – Développement d'un site e-commerce](https://github.com/JulianDou/SAE3.01_DOUTRELIGNE_CAROALQUIER)
 **Description :** Dans ce projet, je devais avec mon binôme, redeisgner et développer un site de click & collect. J'ai donc analysé le site de Micromania et développé l'API et le Back Office de ce site.
 
-![Langues principales](https://img.shields.io/github/languages/top/JulianDou/SAE3.01_DOUTRELIGNE_CAROALQUIER?color=blue&style=flat-square
+![Langues principales](https://img.shields.io/github/languages/top/JulianDou/SAE3.01_DOUTRELIGNE_CAROALQUIER?color=blue&style=flat-square)
 
 ### [SAE 303 – Dashboard de data visualisation](https://github.com/EnguerranCA/SAE-303)
 **Description :** J'ai utilisé la librairie javascript Highcharts pour créer des graphiques dynamiques permettant de visualiser une basez de donnée de magasin alimentaire. Pour la partie graphique, je me suis essayé au néomorphisme. 
