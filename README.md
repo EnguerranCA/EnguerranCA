@@ -25,6 +25,11 @@ Bienvenue sur mon GitHub ! Je suis un développeur web en **BUT MMI** (*Métiers
 
 ---
 
+## 🔊 En recherche de stage !
+Je suis actuellement en recherche de stage pour le 14 avril 2025 et pour une durée de 8 à 12 semaines; Si mon profil vous a intéressé et que vous avez une mission de développement web à me proposer, je serais ravis de vous répondre à mon adresse mail : enguerran.caroalquier@gmail.com
+
+---
+
 ## 📈 Mes statistiques GitHub
 ![Enguerran's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnguerranCA&show_icons=true&theme=radical)
 
@@ -33,8 +38,8 @@ Bienvenue sur mon GitHub ! Je suis un développeur web en **BUT MMI** (*Métiers
 ---
 
 ## 🔗 Retrouvez-moi ailleurs
-- [Portfolio (si disponible)](https://votreportfolio.com)
-- [LinkedIn](https://www.linkedin.com/in/enguerran/)
-- [Twitter](https://twitter.com/votrepseudo)
+- [Portfolio](https://enguerran.pro/)
+- [LinkedIn](https://www.linkedin.com/in/enguerran-caro-alquier/)
+- Mail : enguerran.caroalquier@gmail.com
 
-Merci d'avoir visité mon profil, n'hésitez pas à explorer mes projets ou à me contacter !
+Merrci d'avoir visité ma page ! 
