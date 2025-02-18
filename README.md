@@ -13,10 +13,10 @@ Bienvenue sur mon GitHub ! Je suis un développeur web en **BUT MMI** (*Métiers
 
 ## 🌟 Mes projets 
 
-### [SAE 301 – Développement d'un site e-commerce](https://github.com/EnguerranCA/SAE301)
+### [SAE 301 – Développement d'un site e-commerce](https://github.com/JulianDou/SAE3.01_DOUTRELIGNE_CAROALQUIER)
 **Description :** Dans ce projet, je devais avec mon binôme, redeisgner et développer un site de click & collect. J'ai donc analysé le site de Micromania et développé l'API et le Back Office de ce site.
 
-![Langues principales](https://img.shields.io/github/languages/top/EnguerranCA/SAE301?color=blue&style=flat-square)
+![Langues principales](https://img.shields.io/github/languages/top/JulianDou/SAE3.01_DOUTRELIGNE_CAROALQUIER?color=blue&style=flat-square)
 ![Dernière mise à jour](https://img.shields.io/github/JulianDou/SAE3.01_DOUTRELIGNE_CAROALQUIER)
 
 ### [SAE 303 – Dashboard de data visualisation](https://github.com/EnguerranCA/SAE-303)
