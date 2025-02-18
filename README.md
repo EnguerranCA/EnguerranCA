@@ -22,8 +22,8 @@ Bienvenue sur mon GitHub ! Je suis un développeur web en **BUT MMI** (*Métiers
 ### [SAE 303 – Dashboard de data visualisation](https://github.com/EnguerranCA/SAE-303)
 **Description :** J'ai utilisé la librairie javascript Highcharts pour créer des graphiques dynamiques permettant de visualiser une basez de donnée de magasin alimentaire. Pour la partie graphique, je me suis essayé au néomorphisme. 
 
-![Langues principales](https://img.shields.io/github/languages/top/EnguerranCA/SAE303?color=red&style=flat-square)
-![Dernière mise à jour](https://img.shields.io/github/last-commit/EnguerranCA/SAE303?color=orange&style=flat-square)
+![Langues principales](https://img.shields.io/github/languages/top/EnguerranCA/SAE-303?color=red&style=flat-square)
+![Dernière mise à jour](https://img.shields.io/github/last-commit/EnguerranCA/SAE-303?color=orange&style=flat-square)
 
 ---
 
