@@ -7,7 +7,7 @@ Bienvenue sur mon GitHub ! Je suis un développeur web en **BUT MMI** (*Métiers
 ## 🚀 À propos de moi
 - 🎓 **Étudiant en BUT MMI** – j'explore les domaines du design, du développement web et de l'expérience utilisateur
 - 💡 j'adore apprendre de nouveaux frameworks, de nouvelles méthodes de travail et explorer de nouveaux domaines du développement !
-- 💻 En parallèle der mes études, je crée du contenu audiovisuel autour du jeu-vidéo et du modding.
+- 💻 En parallèle der mes études, je crée des vidéos sur internet autour du jeu-vidéo et du modding.
 
 ---
 ## 📚Mes compétences
@@ -58,5 +58,6 @@ Je suis actuellement en recherche de stage pour le 14 avril 2025 et pour une dur
 - [Portfolio](https://enguerran.pro/)
 - [LinkedIn](https://www.linkedin.com/in/enguerran-caro-alquier/)
 - Mail : enguerran.caroalquier@gmail.com
+- [Mon CV](https://www.canva.com/design/DAF_YsD1Csc/vP7IgRdrWgv_4nY2i8HoPg/view?utm_content=DAF_YsD1Csc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h14f3c97564)
 
 Merrci d'avoir visité ma page ! 
