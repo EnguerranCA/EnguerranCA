@@ -21,18 +21,22 @@ Bienvenue sur mon GitHub ! Je suis un développeur web en **BUT MMI** (*Métiers
 ### [SAE 402 – Création d'un jeu en Réalité Virtuelle](https://github.com/bastienggg/Let_him_quizz/)
 **Description :** Afin de créer un moyen immersif et ludique d'apprendre l'anglais, nous avons avec mon équipe créé un jeu qui met en scène un jeu télévisé appelé "Let Him Quizz". En utilisant AFRAME et ThreeJS, mon rôle est de créer les différentes séquences de mini jeu qui composent l'émission. Ce projet m'apporte beacuoup en expérience et en organisation, il esty d'ailleurs toujours en cours.
 
+[Illustration Let Him Quizz](https://i.imgur.com/ZI6Ezo8.jpeg)
+
 ![Langues principales](https://img.shields.io/github/languages/top/bastienggg/Let_him_quizz?color=blue&style=flat-square)
 [Béta hébergée](https://bastienggg.github.io/Let_him_quizz/)
 
 ### [SAE 301 – Développement d'un site e-commerce](https://github.com/JulianDou/SAE3.01_DOUTRELIGNE_CAROALQUIER)
 **Description :** Dans ce projet, je devais avec mon binôme, redeisgner et développer un site de click & collect. J'ai donc analysé le site de Micromania et développé l'API et le Back Office de ce site.
 
-![Illustration Dataviz](https://i.imgur.com/BIp9Hg3.jpeg)
+![illustration click & collect](https://imgur.com/b1000642-3b53-4b31-a11a-06b180706d83)
 
 ![Langues principales](https://img.shields.io/github/languages/top/JulianDou/SAE3.01_DOUTRELIGNE_CAROALQUIER?color=blue&style=flat-square)
 
 ### [SAE 303 – Dashboard de data visualisation](https://github.com/EnguerranCA/SAE-303)
 **Description :** J'ai utilisé la librairie javascript Highcharts pour créer des graphiques dynamiques permettant de visualiser une basez de donnée de magasin alimentaire. Pour la partie graphique, je me suis essayé au néomorphisme. 
+
+![Illustration Dataviz](https://i.imgur.com/BIp9Hg3.jpeg)
 
 ![Langues principales](https://img.shields.io/github/languages/top/EnguerranCA/SAE-303?color=red&style=flat-square)
 
