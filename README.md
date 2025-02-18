@@ -27,7 +27,7 @@ Bienvenue sur mon GitHub ! Je suis un développeur web en **BUT MMI** (*Métiers
 ### [SAE 301 – Développement d'un site e-commerce](https://github.com/JulianDou/SAE3.01_DOUTRELIGNE_CAROALQUIER)
 **Description :** Dans ce projet, je devais avec mon binôme, redeisgner et développer un site de click & collect. J'ai donc analysé le site de Micromania et développé l'API et le Back Office de ce site.
 
-![Illustration Dataviz]([https://imgur.com/a/dqZ5BmK](https://i.imgur.com/BIp9Hg3.jpeg))
+![Illustration Dataviz](https://i.imgur.com/BIp9Hg3.jpeg)
 
 ![Langues principales](https://img.shields.io/github/languages/top/JulianDou/SAE3.01_DOUTRELIGNE_CAROALQUIER?color=blue&style=flat-square)
 
