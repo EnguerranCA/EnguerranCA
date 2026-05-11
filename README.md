@@ -42,6 +42,21 @@ Bienvenue sur mon GitHub ! Je suis un développeur web en **BUT MMI** (*Métiers
 
 ---
 
+### Stage de fin d'études chez Allez Energies
+**Description :** Mon rôle durant ce stage de 4 mois était de développer une solution d'Extranet complet pour l'entreprise Allez Energies. Il s'agit d'une entreprise de travaux publics dont le besoin principal était d'informatiser ses rapports journaliers, jusqu'à l'export dans leur logiciel de suivi et la consultation par les conducteurs de travaux. J'ai eu la chance de pouvoir aller jusqu'au déploiement de cette application lors de mon dernier mois de stage en phase de Test. 
+
+<img width="1419" height="993" alt="image" src="https://github.com/user-attachments/assets/a9c16700-1b82-472e-b8a4-7134692b225d" />
+
+<img width="1471" height="800" alt="image" src="https://github.com/user-attachments/assets/da4e8602-2a3d-41c5-b94c-59d0e8220a4a" />
+
+
+Malheureusement, sachant que je ne pouvais pas assurer le suivit après la fin de ma période de stage, l'entreprise a préféré ne pas déployer ma solution à grande échelle, mais les équipes m'ont fait de très bons retours et j'espère que mon logiciel saura inspirer les futures solutions de l'entreprise.
+
+<img width="991" height="342" alt="image" src="https://github.com/user-attachments/assets/e9a8936d-c3b5-4cc8-a4d5-892645b43df5" />
+
+<img width="993" height="206" alt="image" src="https://github.com/user-attachments/assets/8cc0f0b7-6472-4585-9d4a-251fb2228b04" />
+
+
 ## 📈 Mes statistiques GitHub
 ![Enguerran's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnguerranCA&show_icons=true&theme=radical)
 
@@ -56,3 +71,5 @@ Bienvenue sur mon GitHub ! Je suis un développeur web en **BUT MMI** (*Métiers
 - [Mon CV](https://www.canva.com/design/DAF_YsD1Csc/vP7IgRdrWgv_4nY2i8HoPg/view?utm_content=DAF_YsD1Csc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h14f3c97564)
 
 Merci d'avoir visité ma page ! 
+
+
